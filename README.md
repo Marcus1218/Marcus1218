@@ -7,4 +7,6 @@
 - 💬 Ask me about python unknown code
 - ⚡ Fun fact: i am single
 
+-EVERY BUG COME WITH SKILL ISSUE
+
 [![Marcus1218's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus1218)](https://github.com/anuraghazra/github-readme-stats)
