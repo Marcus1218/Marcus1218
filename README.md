@@ -11,5 +11,5 @@
 - EVERY BUG COME WITH SKILL ISSUE
 
 [![Marcus1218's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marcus1218)](https://github.com/anuraghazra/github-readme-stats)
-![Marcus1218's GitHub stats](https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![Marcus1218's GitHub stats](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![Marcus1218's GitHub stats](https://raw.githubusercontent.com/Marcus1218/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![Marcus1218's GitHub stats](https://raw.githubusercontent.com/Marcus1218/github-stats/master/generated/languages.svg#gh-dark-mode-only)
