@@ -1,9 +1,9 @@
 ## Hi there i am Marcus👋
 
 - 🔭 I’m currently studying at Hong Kong Baptist University -HKBU 
-- 🌱 I’m currently learning Python,JavaScipt,HTML 
-- 👯 I’m looking to collaborate on Web Development  
-- 🤔 I’m looking for help with debug&test
+- 🌱 I’m currently learning Python,JavaScipt,HTML,SQL,React
+- 👯 I’m looking to collaborate on Web Development,network Security
+- 🤔 I’m looking for help with debug&test,red team
 - 💬 Ask me about python unknown code
 - ⚡ Fun fact: i am single
 - Contact me though Discord(Marcus_1218)
