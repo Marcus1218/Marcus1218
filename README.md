@@ -13,4 +13,4 @@
 ![Marcus1218's Stats](https://github-readme-stats.vercel.app/api?username=Marcus1218&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 ![Marcus1218's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marcus1218&theme=tokyonight&hide_border=true)
 
-![Marcus1218's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcus1218&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![jstrieb's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jstrieb&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
