@@ -7,10 +7,12 @@
 - 💬 Ask me about python unknown code
 - ⚡ Fun fact: i am single
 - Contact me though Discord(Marcus_1218)
-- 📚 Finished Coursera Google AI Essentials Course
+- 📚 Finished Coursera Google AI Essentials Course(7 Hours)
 - https://coursera.org/verify/RKTE4WE1X8ET
-- 📚 Finished Coursera Google Crash Course on Python
+- 📚 Finished Coursera Google Crash Course on Python(20 Hours)
 - https://coursera.org/verify/PJAY4XVO5S40
+- 📚 Finished Coursera Google Foundations of Cybersecurity(10 Hours)
+- https://cour sera.org/ver ify/72HL1UMV3NWM
 - EVERY BUG COME WITH SKILL ISSUE
 
 ![Marcus1218's Stats](https://github-readme-stats.vercel.app/api?username=Marcus1218&theme=dark&show&show_icons=true&hide_border=true&count_private=true)
