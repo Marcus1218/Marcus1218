@@ -9,7 +9,8 @@
 - ⚡ Fun fact: i am single
 - Contact me though Discord(Marcus_1218)
 
-[Coursera RKTE4WE1X8ET.pdf](https://github.com/user-attachments/files/20820584/Coursera.RKTE4WE1X8ET.pdf)
+![Uploading CleanShot 2025-06-19 at 21.55.29@2x.png…]()
+
 
 - EVERY BUG COME WITH SKILL ISSUE
 
