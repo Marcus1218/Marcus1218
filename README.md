@@ -7,8 +7,7 @@
 - 💬 Ask me about python unknown code
 - ⚡ Fun fact: i am single
 - Contact me though Discord(Marcus_1218)
-- 📚 Finished Coursera Google AI Essentials Course(7 Hours)
-- https://coursera.org/verify/RKTE4WE1X8ET
+- 📚 Finished [Coursera Google AI Essentials Course(7 Hours)](https://coursera.org/verify/RKTE4WE1X8ET)
 - 📚 Finished Coursera Google Crash Course on Python(20 Hours)
 - https://coursera.org/verify/PJAY4XVO5S40
 - 📚 Finished Coursera Google Foundations of Cybersecurity(10 Hours)
