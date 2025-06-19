@@ -5,13 +5,9 @@
 - 👯 I’m looking to collaborate on Web Development,network Security
 - 🤔 I’m looking for help with debug&test,red team
 - 💬 Ask me about python unknown code
-- 📚 Finish Coursera Google AI Essentials Course
 - ⚡ Fun fact: i am single
 - Contact me though Discord(Marcus_1218)
-
-![CleanShot 2025-06-19 at 21 55 29@2x](https://github.com/user-attachments/assets/6b466940-f481-4809-a5ca-4e85eea48ea9)
-
-
+- 📚 Finished Coursera Google AI Essentials Course https://coursera.org/verify/RKTE4WE1X8ET
 - EVERY BUG COME WITH SKILL ISSUE
 
 ![Marcus1218's Stats](https://github-readme-stats.vercel.app/api?username=Marcus1218&theme=dark&show&show_icons=true&hide_border=true&count_private=true)
