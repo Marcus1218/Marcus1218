@@ -9,7 +9,7 @@
 - ⚡ Fun fact: i am single
 - Contact me though Discord(Marcus_1218)
 
-![Uploading CleanShot 2025-06-19 at 21.55.29@2x.png…]()
+![CleanShot 2025-06-19 at 21 55 29@2x](https://github.com/user-attachments/assets/6b466940-f481-4809-a5ca-4e85eea48ea9)
 
 
 - EVERY BUG COME WITH SKILL ISSUE
