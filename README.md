@@ -12,6 +12,7 @@
 - 📚 Finished [Coursera Google Foundations of Cybersecurity(10 Hours)](https://coursera.org/verify/72HL1UMV3NWM)
 - 📚 Finished [Coursera Google Foundations: Data, Data, Everywhere(12 Hours)](https://coursera.org/verify/FQZ9SXWLSANJ)
 - 📚 Finished [Coursera Google Technical Support Fundamentals(19 Hours)](https://coursera.org/verify/2HLIVE71UGXS)
+- 📚 Finished [Coursera Google Foundations of Data Science(15 Hours)](https://coursera.org/verify/8UDT0BAXM3XM)
 - EVERY BUG COME WITH SKILL ISSUE
 
 ![Marcus1218's Stats](https://github-readme-stats.vercel.app/api?username=Marcus1218&theme=dark&show&show_icons=true&hide_border=true&count_private=true)
