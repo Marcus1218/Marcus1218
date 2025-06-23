@@ -15,6 +15,7 @@
 - 📚 Finished [Coursera Google Foundations of Data Science(15 Hours)](https://coursera.org/verify/8UDT0BAXM3XM)
 - 📚 Finished [Coursera Google Prompting Essentials(8 Hours)](https://coursera.org/verify/3U4BRSLVLV7Z)
 - 📚 Finished [Coursera Google Foundations of User Experience (UX) Design(13 Hours)](https://coursera.org/verify/CEH6GZA4NVJM)
+- 📚 Finished [Coursera Google Foundations of Project Management(12 Hours)](https://coursera.org/verify/P25MRPKS9PLM)
 
 ![Marcus1218's Stats](https://github-readme-stats.vercel.app/api?username=Marcus1218&theme=dark&show&show_icons=true&hide_border=true&count_private=true)
 
