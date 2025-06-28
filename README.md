@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Web Development,network Security
 - 🤔 I’m looking for help with debug&test,red team
 - 💬 Ask me about python unknown code
-- ⚡ Fun fact: i cannot leave AI already
+- ⚡ Fun fact: I am a Full Stack Developer(OpenAI Codex, Claude Code, Gemini CLI)
 - 📱 Contact me though Discord(Marcus_1218)
 - 📚 Finished [Coursera Google AI Essentials Course(7 Hours)](https://coursera.org/verify/RKTE4WE1X8ET)
 - 📚 Finished [Coursera Google Crash Course on Python(20 Hours)](https://coursera.org/verify/PJAY4XVO5S40)
