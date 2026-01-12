@@ -17,6 +17,3 @@
 - 📚 Finished [Coursera Google Foundations of User Experience (UX) Design(13 Hours)](https://coursera.org/verify/CEH6GZA4NVJM)
 - 📚 Finished [Coursera Google Foundations of Project Management(12 Hours)](https://coursera.org/verify/P25MRPKS9PLM)
 
-![Marcus1218's Stats](https://github-readme-stats.vercel.app/api?username=Marcus1218&theme=dark&show&show_icons=true&hide_border=true&count_private=true)
-
-![marcus1218's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marcus1218&theme=dark&show_icons=true&hide_border=true&layout=compact)
