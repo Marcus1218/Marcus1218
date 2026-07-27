@@ -1,6 +1,6 @@
 ## Hi there i am Marcus👋
 
-- 🔭 I’m currently studying at Hong Kong Baptist University -HKBU 
+- 🔭 I’m currently studying at Hong Kong Polytechnic University
 - 🌱 I’m currently learning Python,JavaScipt,HTML,SQL,React
 - 👯 I’m looking to collaborate on Web Development,network Security
 - 🤔 I’m looking for help with debug&test,red team
